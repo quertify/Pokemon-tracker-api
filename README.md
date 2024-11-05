@@ -27,7 +27,7 @@ This project is a **Pokémon Tracker API** built with **FastAPI**. It allows use
 
    ```bash
    git clone https://github.com/quertify/Pokemon-tracker-api.git
-   cd Pokemon-Tracker-API
+   cd Pokemon-Tracker-api
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
